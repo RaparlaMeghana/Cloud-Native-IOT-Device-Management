@@ -64,6 +64,7 @@ A futuristic, cloud-native IoT platform that **simulates real-world sensors**, *
 
 ---
 📈 Dashboard Features
+
 📊 Real-time line graphs for all sensors
 
 🌡️ Color-coded thresholds and warnings
