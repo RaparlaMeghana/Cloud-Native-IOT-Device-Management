@@ -1,0 +1,9 @@
+Mini Project: Enabling Cloud Native IoT Device Management
+Institution: Anurag University
+
+Modules:
+1. IoT Device Simulator
+2. FastAPI Backend
+3. React Frontend Dashboard
+4. MQTT Communication with Cloud Broker
+5. Docker-based Deployment
